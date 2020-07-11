@@ -35,5 +35,22 @@ Use the Keras library to build a neural network with the following:
 5. Report the mean and the standard deviation of the mean squared errors.
 
 
+## **B.** Normalize the data
 
+ - Repeat Part A but use a normalized version of the data. 
+ 1. Recall that one way to normalize the data is by subtracting the mean from the individual predictors and dividing by the standard deviation.
+ 2. How does the mean of the mean squared errors compare to that from Step A ?
+ 
+ 
+ ## C. Increase the number of epochs 
+
+ - Repeat Part B but using 100 epochs this time for training
+ 1. How does the mean of the mean squared errors compare to that from Step B ?
+
+
+## D. Increase the number of hidden layers 
+
+ - Repeat part B but use a neural network with the following instead:
+1.  Three hidden layers, each of 10 nodes and ReLU activation function
+2.  How does the mean of the mean squared errors compare to that from Step B ?
 
