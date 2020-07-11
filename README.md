@@ -11,7 +11,7 @@ Here, We'll build a regression model using the deep learning Keras library, and 
 ### Pre-work
 
 1. Import the Dataset
-2. Explore the Dataset 
+2. Explore the Dataset (https://cocl.us/concrete_data)
 3. Data Preprocessing
 
 ### Building Models
